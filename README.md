@@ -1,6 +1,7 @@
 # Horse Image Colourization
-A Jupyter Notebook for colourizing grey scale horse images with the help of GAN.
-Models are trained on CIFAR dataset.
+A Jupyter Notebook for colourizing grey scale horse images with the help of GAN.  
+Models are trained on CIFAR dataset.  
+Due to large sum of images, the .ipynb file is zipped as 'Image_Colourization.rar'.
 
 ## Features
 - **Data Preparation**: Convert RGB images to grayscale and prepare paired datasets.
